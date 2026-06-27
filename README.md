@@ -186,8 +186,6 @@ Contributions are welcome!
 
 ## **Sourabh Patil**
 
-**Software Test Engineer**
-
 ### Skills
 
 * Python
